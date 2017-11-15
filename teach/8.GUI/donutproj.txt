@@ -1,0 +1,7 @@
+19.12.13
+TODO rest of Donuts need to coded
+TODO order total box
+TODO running total box
+calculate 6 and 12 specials
+random pick code needs to be written
+soem error checking would be nice
